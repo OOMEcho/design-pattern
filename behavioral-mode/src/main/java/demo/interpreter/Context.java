@@ -21,7 +21,4 @@ public class Context {
     public int getValue(Variable variable) {
         return map.get(variable);
     }
-
-
-
 }
