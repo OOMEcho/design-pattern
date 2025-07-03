@@ -1,3 +1,5 @@
 # Project exclude paths
+/behavioral-mode/target/
 /creator-mode/target/
+/spring-demo/target/
 /structural-mode/target/
